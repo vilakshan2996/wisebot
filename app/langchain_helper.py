@@ -1,4 +1,3 @@
-from secret_key import openapi_key
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
 from langchain.chat_models import ChatOpenAI
